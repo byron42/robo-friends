@@ -1,8 +1,8 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://byron42.github.io/robo-friends",
+  "private": false,
+  "homepage": "https://byron42.github.io/robo-friends/",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
