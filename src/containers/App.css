@@ -10,6 +10,6 @@ src: local('FUTURISTIC FONT'), url('Futuristic Armour.woff') format('woff');
 h1 {
   font-family: 'FUTURISTIC FONT';
   font-weight: 800;
-  font-size: calc(50px + (13) * ((100vw - 300px) / (1600 - 300))) !important;
+  font-size: calc(50px + (20) * ((100vw - 300px) / (1600 - 300))) !important;
   color: #0ccac4;
 }
